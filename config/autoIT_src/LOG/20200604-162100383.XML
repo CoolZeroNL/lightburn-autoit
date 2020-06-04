@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><log space="preserve"><logline level="5" timestamp="20200604-162100398"> <information> Information _UIA_VersionInfo version: T0.7-0; Release date: 20190501; OS Version: WIN_10</information></logline>
+<logline level="0" timestamp="20200604-162106230"> </logline>
+<logline level="0" timestamp="20200604-162111165"> Finding object (using repository) with physical description Title:=Frame;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_action: No RTI.LASTELEMENT used for oUIElFrame
+_UIA_action: No RTI.PARENT used for oUIElFrame
+_UIA_action: No RTI.SEARCHCONTEXT used for oUIElFrame
+_UIA_action: Finding object 1 oUIElFrame object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for &lt;Title:=Frame;controltype:=UIA_ButtonControlTypeId;class:=QPushButton&gt;
+_UIA_normalizeExpression Title:=Frame;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Frame
+ name:[Title] value:[Frame] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 16&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Frame;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_normalizeExpression Title:=Frame;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Frame
+ name:[Title] value:[Frame] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1558Found match with element: 413 the Name is: &lt;Title is: &lt;Frame&gt;	Class   := &lt;QPushButton&gt;	controltype:= &lt;UIA_ButtonControlTypeId&gt;	,&lt;50000&gt;	, (0000C350)	rect := &lt; 1486;602;108;30&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.dwLaser.dockWidgetContents_2.pbFrame&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT 
+&lt;action&gt;Action 1 click on oUIElFrame _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162111462"> </logline>
+<logline level="0" timestamp="20200604-162117129"> Finding object (using repository) with physical description Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow
+_UIA_action: Finding object 1 oUIElement object a:=0 under RTI.LASTELEMENT object b:=1
+  looking for &lt;Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow&gt;
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 0&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: Finding object 1 oUIElement object a:=0 under RTI.PARENT object b:=1
+  looking for &lt;Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow&gt;
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 22&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 43&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: No RTI.SEARCHCONTEXT used for oUIElement
+_UIA_action: Finding object 1 oUIElement object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for &lt;Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow&gt;
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 16&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow
+_UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=
+ name:[Title] value:[] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId
+ name:[controltype] value:[50026] having index 15
+  _UIA_normalizeExpression property 3 class:=EditWindow
+ name:[class] value:[EditWindow] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1558Found match with element: 460 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;EditWindow&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 120;114;1360;874&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.centralWidget.ewEdit&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT 
+&lt;action&gt;Action 2 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162126122"> </logline>
+<logline level="0" timestamp="20200604-162131256"> Finding object (using repository) with physical description Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_action: Finding object 1 oUIElDevices object a:=0 under RTI.LASTELEMENT object b:=1
+  looking for &lt;Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton&gt;
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 0&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: Finding object 1 oUIElDevices object a:=0 under RTI.PARENT object b:=1
+  looking for &lt;Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton&gt;
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 2&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: No RTI.SEARCHCONTEXT used for oUIElDevices
+_UIA_action: Finding object 1 oUIElDevices object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for &lt;Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton&gt;
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 16&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton
+_UIA_normalizeExpression Title:=Devices;controltype:=UIA_ButtonControlTypeId;class:=QPushButton;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Devices
+ name:[Title] value:[Devices] having index 3
+  _UIA_normalizeExpression property 2 controltype:=UIA_ButtonControlTypeId
+ name:[controltype] value:[50000] having index 15
+  _UIA_normalizeExpression property 3 class:=QPushButton
+ name:[class] value:[QPushButton] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1581Found match with element: 460 the Name is: &lt;Title is: &lt;Devices&gt;	Class   := &lt;QPushButton&gt;	controltype:= &lt;UIA_ButtonControlTypeId&gt;	,&lt;50000&gt;	, (0000C350)	rect := &lt; 1486;742;75;23&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.dwLaser.dockWidgetContents_2.pbDevices&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT 
+&lt;action&gt;Action 3 rightclick on oUIElDevices _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162131547"> </logline>
+<logline level="0" timestamp="20200604-162131547"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElement
+&lt;action&gt;Action 4 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162137257"> </logline>
+<logline level="0" timestamp="20200604-162137257"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElDevices
+&lt;action&gt;Action 5 rightclick on oUIElDevices _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162137556"> </logline>
+<logline level="0" timestamp="20200604-162137556"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElement
+&lt;action&gt;Action 6 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="5" timestamp="20200604-162140181"> _UIA_normalizeExpression Title:=;controltype:=UIA_WindowControlTypeId;class:=MainWindow;elements 1-3 in properties array</logline>
+<logline level="5" timestamp="20200604-162140181">   _UIA_normalizeExpression property 1 Title:=</logline>
+<logline level="5" timestamp="20200604-162140181">  name:[Title] value:[] having index 3</logline>
+<logline level="5" timestamp="20200604-162140181">   _UIA_normalizeExpression property 2 controltype:=UIA_WindowControlTypeId</logline>
+<logline level="5" timestamp="20200604-162140181">  name:[controltype] value:[50032] having index 15</logline>
+<logline level="5" timestamp="20200604-162140181">   _UIA_normalizeExpression property 3 class:=MainWindow</logline>
+<logline level="5" timestamp="20200604-162140181">  name:[class] value:[MainWindow] having index 6</logline>
+<logline level="5" timestamp="20200604-162140181"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20200604-162140824"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 16</logline>
+<logline level="5" timestamp="20200604-162140839"> Found match with element: 3 the Name is: &lt;Title is: &lt;&lt;untitled&gt; *&gt;	Class   := &lt;MainWindow&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 0;23;1920;1018&gt;	hwnd := &lt; 11603240&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow&gt;
+</logline>
+<logline level="5" timestamp="20200604-162140839"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20200604-162140839"> Storing parent for found object in RTI as RTI.PARENT Desktop 1</logline>
+<logline level="5" timestamp="20200604-162140996"> _UIA_normalizeExpression Title:=Laser;controltype:=UIA_WindowControlTypeId;class:=QDockWidget;elements 1-3 in properties array</logline>
+<logline level="5" timestamp="20200604-162140996">   _UIA_normalizeExpression property 1 Title:=Laser</logline>
+<logline level="5" timestamp="20200604-162140996">  name:[Title] value:[Laser] having index 3</logline>
+<logline level="5" timestamp="20200604-162140996">   _UIA_normalizeExpression property 2 controltype:=UIA_WindowControlTypeId</logline>
+<logline level="5" timestamp="20200604-162140996">  name:[controltype] value:[50032] having index 15</logline>
+<logline level="5" timestamp="20200604-162140996">   _UIA_normalizeExpression property 3 class:=QDockWidget</logline>
+<logline level="5" timestamp="20200604-162140996">  name:[class] value:[QDockWidget] having index 6</logline>
+<logline level="5" timestamp="20200604-162140996"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20200604-162141074"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 22</logline>
+<logline level="5" timestamp="20200604-162141230"> Found match with element: 18 the Name is: &lt;Title is: &lt;Laser&gt;	Class   := &lt;QDockWidget&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; 1485;537;435;434&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.dwLaser&gt;
+</logline>
+<logline level="5" timestamp="20200604-162141230"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20200604-162141246"> Storing parent for found object in RTI as RTI.PARENT &lt;untitled&gt; *</logline>
+<logline level="5" timestamp="20200604-162141376"> _UIA_normalizeExpression Title:=;controltype:=UIA_GroupControlTypeId;class:=QWidget;elements 1-3 in properties array</logline>
+<logline level="5" timestamp="20200604-162141376">   _UIA_normalizeExpression property 1 Title:=</logline>
+<logline level="5" timestamp="20200604-162141376">  name:[Title] value:[] having index 3</logline>
+<logline level="5" timestamp="20200604-162141376">   _UIA_normalizeExpression property 2 controltype:=UIA_GroupControlTypeId</logline>
+<logline level="5" timestamp="20200604-162141376">  name:[controltype] value:[50026] having index 15</logline>
+<logline level="5" timestamp="20200604-162141376">   _UIA_normalizeExpression property 3 class:=QWidget</logline>
+<logline level="5" timestamp="20200604-162141376">  name:[class] value:[QWidget] having index 6</logline>
+<logline level="5" timestamp="20200604-162141377"> *** Try to get a list of elements *** treescopetype:=2</logline>
+<logline level="0" timestamp="20200604-162141388"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 3</logline>
+<logline level="5" timestamp="20200604-162141399"> Found match with element: 0 the Name is: &lt;Title is: &lt;&gt;	Class   := &lt;QWidget&gt;	controltype:= &lt;UIA_GroupControlTypeId&gt;	,&lt;50026&gt;	, (0000C36A)	rect := &lt; 1485;558;435;413&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.dwLaser.dockWidgetContents_2&gt;
+</logline>
+<logline level="5" timestamp="20200604-162141400"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20200604-162141402"> Storing parent for found object in RTI as RTI.PARENT Laser</logline>
+<logline level="5" timestamp="20200604-162141541"> _UIA_normalizeExpression title:=Home;ControlType:=UIA_ButtonControlTypeId;elements 1-2 in properties array</logline>
+<logline level="5" timestamp="20200604-162141541">   _UIA_normalizeExpression property 1 title:=Home</logline>
+<logline level="5" timestamp="20200604-162141541">  name:[title] value:[Home] having index 3</logline>
+<logline level="5" timestamp="20200604-162141542">   _UIA_normalizeExpression property 2 ControlType:=UIA_ButtonControlTypeId</logline>
+<logline level="5" timestamp="20200604-162141542">  name:[ControlType] value:[50000] having index 15</logline>
+<logline level="5" timestamp="20200604-162141542"> *** Try to get a list of elements *** treescopetype:=7</logline>
+<logline level="0" timestamp="20200604-162141546"> _UIA_getObjectByFindAll walk thru the tree with n elements where n equals 43</logline>
+<logline level="5" timestamp="20200604-162141649"> Found match with element: 28 the Name is: &lt;Title is: &lt;Home&gt;	Class   := &lt;QPushButton&gt;	controltype:= &lt;UIA_ButtonControlTypeId&gt;	,&lt;50000&gt;	, (0000C350)	rect := &lt; 1486;632;107;23&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.dwLaser.dockWidgetContents_2.pbHome&gt;
+</logline>
+<logline level="5" timestamp="20200604-162141649"> <propertymatching></propertymatching></logline>
+<logline level="5" timestamp="20200604-162141649"> Storing parent for found object in RTI as RTI.PARENT </logline>
+<logline level="0" timestamp="20200604-162141774"> </logline>
+<logline level="0" timestamp="20200604-162141774"> Quickly referenced object :
+&lt;action&gt;Action 7 click on  _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162147070"> </logline>
+<logline level="0" timestamp="20200604-162151429"> Finding object (using repository) with physical description Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=
+_UIA_action: Finding object 1 oUIElMove object a:=0 under RTI.LASTELEMENT object b:=1
+  looking for &lt;Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=&gt;
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 0&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: Finding object 1 oUIElMove object a:=0 under RTI.PARENT object b:=1
+  looking for &lt;Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=&gt;
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 22&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 43&lt;propertymatching&gt;&lt;/propertymatching&gt;_UIA_action: No RTI.SEARCHCONTEXT used for oUIElMove
+_UIA_action: Finding object 1 oUIElMove object a:=0 under RTI.MAINWINDOW object b:=1
+  looking for &lt;Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=&gt;
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=2
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 16&lt;propertymatching&gt;&lt;/propertymatching&gt;  deep find in subtree Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=
+_UIA_normalizeExpression Title:=Move;controltype:=8UIA_TabItemControlTypeId;class:=;elements 1-3 in properties array
+  _UIA_normalizeExpression property 1 Title:=Move
+ name:[Title] value:[Move] having index 3
+  _UIA_normalizeExpression property 2 controltype:=8UIA_TabItemControlTypeId
+ name:[controltype] value:[0] having index 15
+  _UIA_normalizeExpression property 3 class:=
+ name:[class] value:[] having index 6
+*** Try to get a list of elements *** treescopetype:=7
+_UIA_getObjectByFindAll walk thru the tree with n elements where n equals 1543Found match with element: 249 the Name is: &lt;Title is: &lt;Move&gt;	Class   := &lt;MoveLaserWidget&gt;	controltype:= &lt;UIA_WindowControlTypeId&gt;	,&lt;50032&gt;	, (0000C370)	rect := &lt; -112;-326;296;197&gt;	hwnd := &lt; 0&gt;	acceleratorkey := &lt; &gt;	automationid := &lt;MainWindow.MoveLaserWidget&gt;
+
+&lt;propertymatching&gt;&lt;/propertymatching&gt;Storing parent for found object in RTI as RTI.PARENT &lt;untitled&gt; *
+&lt;action&gt;Action 8 click on oUIElMove _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162151729"> </logline>
+<logline level="0" timestamp="20200604-162219038"> </logline>
+<logline level="0" timestamp="20200604-162219038"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElement
+&lt;action&gt;Action 9 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162229024"> </logline>
+<logline level="0" timestamp="20200604-162229024"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElMove
+&lt;action&gt;Action 10 click on oUIElMove _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162229305"> </logline>
+<logline level="0" timestamp="20200604-162254497"> </logline>
+<logline level="0" timestamp="20200604-162254498"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElement
+&lt;action&gt;Action 11 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162314222"> </logline>
+<logline level="0" timestamp="20200604-162314222"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElMove
+&lt;action&gt;Action 12 click on oUIElMove _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162314520"> </logline>
+<logline level="0" timestamp="20200604-162341414"> </logline>
+<logline level="0" timestamp="20200604-162341415"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElement
+&lt;action&gt;Action 13 click on oUIElement _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+<logline level="0" timestamp="20200604-162449332"> </logline>
+<logline level="0" timestamp="20200604-162449334"> Finding object (using repository) with physical description 
+Quickly referenced object :oUIElMove
+&lt;action&gt;Action 14 click on oUIElMove _UIA_IsElement:=1 Parameters 1:=0 2:=0 3:=0 4:=0&lt;/action&gt;</logline>
+</log>

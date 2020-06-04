@@ -6,13 +6,40 @@ This is a automation script that is writtin in AutoIT and binds action to F6 - F
   <img src="./readme.images/img.png">
 </p>
 
+|Function  | HotKey | Action |
+|----------|--------|--------|
+|Frame     | F6     | This wil click on the `Frame`  button, then it will center focus on the workfield so numpad wil work. |
+|Soft Reset| F7     | This will Rightclick on the `Devices` button, then it will center focus on the workfield so numpad wil work. |
+|Home      | F7     | This will click on the `Move` Tab, then it will click on the `Home` button         |
+|Fire      | F9     | This will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
+|Exit      | F10    | This will quit the AutoIT tool             |
+
+Compiled file: [here]()
+
+Source: [here]()
 
 # XBOX360 Controller
 ## AntiMicro
 
-U can use this then with a xbox360 controller, trough antimicro.
+U can use this then with a xbox360 controller, trough antimicro. Map the Controller Key to the new HotKeys.
+I have mapped the following:
+
+Back = Soft Reset
+Start = Homing
+Left Bumper = F9
+Left Trigger = SHIFT
+Right Trigger = F6
+Y = Numpad Up (2)
+X = Numpad Right (6)
+B = Numpad Left (4)
+A = Numpad Down (8)
+
+this config file is availible: [here](https://raw.githubusercontent.com/CoolZeroNL/lightburn-autoit/master/config/antimicro/antimicro-config.amgp?token=AGICJABAMS3A3RPSRX7X4XK63EDE2)
 
 <p align="center">
   <img src="./readme.images/LIGHTBURN.png">
 </p>
 
+# Usage
+
+The first time u start the tool, and use a HotKey there can be a delay, after the first time it will response immidedly
