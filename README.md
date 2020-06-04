@@ -24,15 +24,15 @@ Source: [here](https://github.com/CoolZeroNL/lightburn-autoit/tree/master/config
 U can use this then with a xbox360 controller, trough antimicro. Map the Controller Key to the new HotKeys.
 I have mapped the following:
 
-Back = Soft Reset
-Start = Homing
-Left Bumper = F9
-Left Trigger = SHIFT
-Right Trigger = F6
-Y = Numpad Up (2)
-X = Numpad Right (6)
-B = Numpad Left (4)
-A = Numpad Down (8)
+- Back = Soft Reset  
+- Start = Homing  
+- Left Bumper = F9  
+- Left Trigger = SHIFT  
+- Right Trigger = F6
+- Y = Numpad Up (2)
+- X = Numpad Right (6)
+- B = Numpad Left (4)
+- A = Numpad Down (8)
 
 this config file is availible: [here](https://raw.githubusercontent.com/CoolZeroNL/lightburn-autoit/master/config/antimicro/antimicro-config.amgp?token=AGICJABAMS3A3RPSRX7X4XK63EDE2)
 
