@@ -18,6 +18,7 @@ This is a automation script that is writtin in AutoIT and binds action to F6 - F
 |Fire      | F9     | This will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
 |Exit      | F10    | This will quit the AutoIT tool             |
 
+## Download
 Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys-v0.2.exe)
 
 Source: [here](https://github.com/CoolZeroNL/lightburn-autoit/tree/master/config/autoIT_src)
