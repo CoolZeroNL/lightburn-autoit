@@ -1,4 +1,8 @@
 # lightburn-autoit
+## Version
+v0.2
+
+## Description
 
 This is a automation script that is writtin in AutoIT and binds action to F6 - F10. When loaded a Tooltip will appear with the keys and hotkey.
 
