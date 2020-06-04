@@ -42,7 +42,7 @@ this config file is availible: [here](https://raw.githubusercontent.com/CoolZero
 
 # Usage
 
-Start LightBurn, if u want to use the Fire button the be sure that it is enabled before starting this tool.
+Start LightBurn, if u want to use the Fire button the be sure that it is enabled before starting this tool (hotkeys.exe or though the autoit source code).
 When Lightburn is started, you can start this tool. When you see the tooltip, the tool is active and you can use the HotKeys.
 
 ps. The first time u start the tool, and use a HotKey there can be a delay, after the first time it will response immidedly
@@ -57,3 +57,8 @@ Want to map XBOX360 to HotKey, then you can use AntiMicro..
 Want to edit or change the source code, then u need AutoIt..
 
 [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/tools/autoit-v3-setup.exe)
+
+
+# To do:
+- [] do action only when lightburn is started and active.
+- [] testing
