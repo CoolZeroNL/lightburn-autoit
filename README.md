@@ -14,12 +14,12 @@ This is a automation script that is writtin in AutoIT and binds action to F6 - F
 |----------|--------|--------|
 |Frame     | F6     | This wil click on the `Frame`  button, then it will center focus on the workfield so numpad wil work. |
 |Soft Reset| F7     | This will Rightclick on the `Devices` button, then it will center focus on the workfield so numpad wil work. |
-|Home      | F8     | This will click on the `Move` Tab, then it will click on the `Home` button         |
-|Fire      | F9     | This will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
+|Home      | F8     | This will click on the `Home` button         |
+|Fire      | F9     | This will click on the `Move` Tab, then it will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
 |Exit      | F10    | This will quit the AutoIT tool             |
 
 ## Download
-Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys-v0.2.exe)
+Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys-v0.3.exe)
 
 Source: [here](https://github.com/CoolZeroNL/lightburn-autoit/tree/master/config/autoIT_src)
 

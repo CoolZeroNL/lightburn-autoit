@@ -2,7 +2,7 @@
 
  AutoIt Version: 3.3.14.5
  Author:         CoolZero
- Version:		 0.2
+ Version:		 0.3
 
 #ce ----------------------------------------------------------------------------
 
@@ -50,6 +50,10 @@ While 1
 	  Local $oP0=_UIA_getObjectByFindAll($oP1, "Title:=;controltype:=UIA_GroupControlTypeId;class:=QWidget", $treescope_children)
 	  Local $oUIElement=_UIA_getObjectByFindAll($oP0, "title:=Home;ControlType:=UIA_ButtonControlTypeId", $treescope_subtree)
 	  _UIA_action($oUIElement,"click")
+	  
+	  ; main (back to main, if not the numpad wont work.)
+	  _UIA_setVar("oUIElement","Title:=;controltype:=UIA_GroupControlTypeId;class:=EditWindow") ;ControlType:=UIA_GroupControlTypeId;classname:=EditWindow")
+	  _UIA_action("oUIElement","click")
 
     ElseIf _IsPressed("78", $hDLL) Then
 	  ConsoleWrite("_IsPressed - F9 Key was pressed." & @CRLF)
