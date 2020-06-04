@@ -43,3 +43,14 @@ this config file is availible: [here](https://raw.githubusercontent.com/CoolZero
 # Usage
 
 The first time u start the tool, and use a HotKey there can be a delay, after the first time it will response immidedly
+
+# Tools
+## AnitMicro
+Want to map XBOX360 to HotKey, then you can use AntiMicro..
+
+[here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/tools/antimicro-2.23-win32.msi.7z)
+
+## AutoIt
+Want to edit or change the source code, then u need AutoIt..
+
+[here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/tools/autoit-v3-setup.exe)
