@@ -14,9 +14,9 @@ This is a automation script that is writtin in AutoIT and binds action to F6 - F
 |Fire      | F9     | This will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
 |Exit      | F10    | This will quit the AutoIT tool             |
 
-Compiled file: [here]()
+Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys.exe)
 
-Source: [here]()
+Source: [here](https://github.com/CoolZeroNL/lightburn-autoit/tree/master/config/autoIT_src)
 
 # XBOX360 Controller
 ## AntiMicro
