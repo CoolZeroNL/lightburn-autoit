@@ -42,7 +42,10 @@ this config file is availible: [here](https://raw.githubusercontent.com/CoolZero
 
 # Usage
 
-The first time u start the tool, and use a HotKey there can be a delay, after the first time it will response immidedly
+Start LightBurn, if u want to use the Fire button the be sure that it is enabled before starting this tool.
+When Lightburn is started, you can start this tool. When you see the tooltip, the tool is active and you can use the HotKeys.
+
+ps. The first time u start the tool, and use a HotKey there can be a delay, after the first time it will response immidedly
 
 # Tools
 ## AnitMicro
