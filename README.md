@@ -16,7 +16,7 @@ Before the action is done, it will check if Lightburn is displayed, and avtive.
 |----------|--------|--------|
 |Frame     | F6     | This wil click on the `Frame`  button, then it will center focus on the workfield so numpad wil work. |
 |Soft Reset| F7     | This will Rightclick on the `Devices` button, then it will center focus on the workfield so numpad wil work. |
-|Home      | F8     | This will click on the `Home` button         |
+|Home      | F8     | This will click on the `Home` button, waits till the laserstatus is `Ready` and preform `Soft Reset`.         |
 |Fire      | F9     | This will click on the `Move` Tab, then it will click on the `Fire` button, then it will center focus on the workfield so numpad wil work.        |
 |Exit      | F10    | This will quit the AutoIT tool             |
 
