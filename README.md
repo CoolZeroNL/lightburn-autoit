@@ -10,6 +10,8 @@ This is a automation script that is writtin in AutoIT and binds action to F6 - F
   <img src="./readme.images/img.png">
 </p>
 
+Before the action is done, it will check if Lightburn is displayed, and avtive.
+
 |Function  | HotKey | Action |
 |----------|--------|--------|
 |Frame     | F6     | This wil click on the `Frame`  button, then it will center focus on the workfield so numpad wil work. |
