@@ -1,6 +1,6 @@
 # lightburn-autoit
 ## Version
-v0.3
+v0.4
 
 ## Description
 
