@@ -21,7 +21,7 @@ Before the action is done, it will check if Lightburn is displayed, and avtive.
 |Exit      | F10    | This will quit the AutoIT tool             |
 
 ## Download
-Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys-v0.3.exe)
+Compiled file: [here](https://github.com/CoolZeroNL/lightburn-autoit/raw/master/Hotkeys-v0.4.exe)
 
 Source: [here](https://github.com/CoolZeroNL/lightburn-autoit/tree/master/config/autoIT_src)
 
